@@ -1,0 +1,5 @@
+**/.idea/*
+centralize-logs-lambda-firehose/bin/**
+.aws-sam/**
+run.sh
+**/go-example-logs-api-extension/**
