@@ -92,7 +92,7 @@ Check out the code by running the following command:
 
 ```bash
 mkdir kinesisfirehose-logs-extension-demo && cd kinesisfirehose-logs-extension-demo
-git clone https://github.com/hariohmprasath/load-testing-serverless-apps.git .
+git clone https://github.com/hariohmprasath/centralize-logs-lambda-firehose.git .
 ```
 
 Run the following command from the root directory
